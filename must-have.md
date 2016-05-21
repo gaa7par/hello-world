@@ -9,6 +9,7 @@
 
 <h2>Apps without GUI</h2>
 <ul>
+  <li>zsh <i>(oh-my-zsh)</i></li>
   <li>vim</li>
   <li>mc</li>
   <li>git</li>
