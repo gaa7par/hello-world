@@ -4,13 +4,13 @@
 <ul>
   <li>Chrome</li>
   <li>Atom</li>
-  <li>Dropbox</li>
+  <li>GNOME Terminal</li>
+  <li>...</li>
+  <li>RubyMine?</li>
 </ul>
 
 <h2>Apps without GUI</h2>
 <ul>
-  <li>zsh <i>(oh-my-zsh)</i></li>
   <li>vim</li>
   <li>mc</li>
-  <li>git</li>
 </ul>
