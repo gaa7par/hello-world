@@ -3,14 +3,15 @@
 <h2>Apps with GUI</h2>
 <ul>
   <li>Chrome</li>
-  <li>Atom</li>
+  <li>Atom (with vim-mode)</li>
   <li>GNOME Terminal</li>
   <li>...</li>
-  <li>RubyMine?</li>
 </ul>
 
 <h2>Apps without GUI</h2>
 <ul>
   <li>vim</li>
   <li>mc</li>
+  <li>zsh (with oh-my-zsh)</li>
+  <li>...</li>
 </ul>
