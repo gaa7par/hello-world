@@ -4,7 +4,7 @@
 <ul>
   <li>Chrome</li>
   <li>Atom (with vim-mode)</li>
-  <li>GNOME Terminal</li>
+  <li>GNOME Terminal / iTerm</li>
   <li>...</li>
 </ul>
 
