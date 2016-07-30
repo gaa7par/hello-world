@@ -10,7 +10,7 @@
 
 <h2>Apps without GUI</h2>
 <ul>
-  <li>vim</li>
+  <li>vim (with NERDTree)</li>
   <li>mc</li>
   <li>zsh (with oh-my-zsh)</li>
   <li>...</li>
