@@ -2,16 +2,17 @@
 
 <h2>Apps with GUI</h2>
 <ul>
-  <li>Chrome</li>
-  <li>Atom (with vim-mode)</li>
-  <li>GNOME Terminal / iTerm</li>
+  <li>Chrome / Firefox</li>
+  <li>Atom / Emacs</li>
+  <li>HyperTerm / iTerm / GNOME Terminal</li>
   <li>...</li>
 </ul>
 
 <h2>Apps without GUI</h2>
 <ul>
-  <li>vim (with NERDTree)</li>
+  <li>neovim / vim / nano</li>
   <li>mc</li>
-  <li>zsh (with oh-my-zsh)</li>
+  <li>tmux</li>
+  <li>bash / zsh / fish</li>
   <li>...</li>
 </ul>
