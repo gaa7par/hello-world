@@ -14,5 +14,6 @@
   <li>mc</li>
   <li>tmux</li>
   <li>fish</li>
+  <li>tree</li>
   <li>...</li>
 </ul>
