@@ -10,7 +10,7 @@
 
 <h2>Apps without GUI</h2>
 <ul>
-  <li>neovim / nano</li>
+  <li>vim / nano</li>
   <li>mc</li>
   <li>tmux</li>
   <li>fish</li>
