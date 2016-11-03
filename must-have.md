@@ -4,7 +4,7 @@
 <ul>
   <li>Chrome / Firefox</li>
   <li>Atom / Emacs</li>
-  <li>HyperTerm / GNOME Terminal</li>
+  <li>GNOME Terminal</li>
   <li>...</li>
 </ul>
 
