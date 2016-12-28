@@ -1,10 +1,12 @@
 <h1>Must-have apps</h>
 
+<h2>Fedora</h2>
+
 <h2>Apps with GUI</h2>
 <ul>
   <li>Chrome / Firefox</li>
   <li>Atom / Emacs</li>
-  <li>iTerm / GNOME Terminal</li>
+  <li>GNOME Terminal</li>
   <li>...</li>
 </ul>
 
