@@ -1,4 +1,4 @@
-<h1>Must-have apps</h>
+<h1>Must-have apps</h1>
 
 <h2>Fedora</h2>
 
@@ -12,7 +12,7 @@
 
 <h2>Apps without GUI</h2>
 <ul>
-  <li>vim</li>
+  <li>neovim / vim</li>
   <li>nano</li>
   <li>mc</li>
   <li>tmux</li>
